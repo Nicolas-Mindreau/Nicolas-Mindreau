@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My Name is Nicolas Mindreau, I am currently a student at FIU and my career is Computer Science. 👋
 
 <!--
 **Nicolas-Mindreau/Nicolas-Mindreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
